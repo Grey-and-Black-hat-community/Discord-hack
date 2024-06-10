@@ -1,2 +1,2 @@
 # Discord-hack
-Un super hack d'hameçonnage pour Discord
+Il s'aggit du meilleur site de fishing pour Discord !
